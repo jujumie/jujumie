@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Juliana Meirelles. I am passionate about sustainability and data! (B.A. Sustainability, M.S. Data Science)
 - 👀 I’m fascinated by the link between individuals and their environment, and how we can use data to explore & communicate critical information to improve this link. 
 - 🌱 I’m currently improving my skills in R, Python, Machine Learning, data viz, and more!
-- 💞️ I’m looking to work for an organization that values community-led change & climate action (especially in the area of sustainable agriculture and food systems)
+- 💞️ I’m looking to work for an organization that values community-led change & climate action (especially in the area of sustainable agriculture, food systems, and sustainability principles related to People, Planet, Profit)
 - 📫 How to reach me: julesrmie@gmail.com or https://www.linkedin.com/in/juliana-meirelles-259a521b8/
 
 <!---
